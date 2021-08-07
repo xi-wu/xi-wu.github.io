@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xi Wu"
+title                    : " Xi Wu's Personal Website"
 title_separator          : "-"
 name                     : &name "Xi Wu"
 description              : &description "PhD Candidate at Temple University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xi Wu (吴茜)"
   avatar           : "profile.jpeg"
-  bio              : "PhD Candidate"
+  bio              : "A PhD Candidate in MIS department at Temple University"
   location         : "Philadelphia, PA"
   employer         : "Temple University"
   pubmed           : 
@@ -197,6 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -206,8 +207,10 @@ defaults:
   - scope:
       path: ""
       type: pages
+
     values:
       layout: single
+      classes: wide
       author_profile: true
   # _teaching
   - scope:
