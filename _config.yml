@@ -82,7 +82,7 @@ analytics:
 author:
   name             : " Xi Wu (吴茜)"
   avatar           : "profile.jpeg"
-  bio              : "A PhD Candidate in MIS department at Temple University"
+  bio              : "A PhD Candidate in the MIS Department at Temple University’s Fox business school."
   location         : "Philadelphia, PA"
   employer         : "Temple University"
   pubmed           : 
@@ -218,6 +218,7 @@ defaults:
       type: teaching
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comments: true

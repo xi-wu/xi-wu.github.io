@@ -1,6 +1,8 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+layout: single
+classes: wide
 ---
 
 I have taught undergraduate courses on data and analytics. I also served as a teaching assistant for courses in data and analytics, in addition to the PhD Data Camp in Fox business school.
