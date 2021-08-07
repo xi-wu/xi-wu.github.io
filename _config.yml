@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xi Wu (吴茜)"
+  name             : " Xi Wu (吴茜)"
   avatar           : "profile.jpeg"
   bio              : "A PhD Candidate in MIS department at Temple University"
   location         : "Philadelphia, PA"
   employer         : "Temple University"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "xi.wu@temple.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
