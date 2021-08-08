@@ -109,7 +109,7 @@
 }
 
 .author__name {
-  margin: 0;
+  margin: 1;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -123,6 +123,8 @@
 
 .author__bio {
   margin: 0;
+  font-size: 0.9em;
+  font-style: italic;
 
   @include breakpoint($large) {
     margin-top: 10px;
