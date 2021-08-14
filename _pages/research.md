@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+classes: wide
 permalink: /research/
 author_profile: true
 ---
