@@ -9,7 +9,7 @@ author_profile: true
 
 # Working Papers
 
-### [That’s Mine! Employee Side Projects, Intellectual Property Ownership, and Firm Innovation](/research/side_project)
+### That’s Mine! Employee Side Projects, Intellectual Property Ownership, and Firm Innovation
  - Coauthored with Min-Seok Pang and Charlotte R. Ren
  - Under review after resubmission to *Information Systems Research* after Reject and resubmit
 
