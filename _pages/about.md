@@ -15,4 +15,4 @@ Hi, I am Xi Wu, a fifth-year Ph.D. Candidate in the Department of Management Inf
 
 My work has been presented in leading conferences such as the Conference on Information Systems and Technology, the International Conference of Information Systems, the Academy of Management Annual Meeting, and the Strategic Management Society Conference.
 
-[Curriculum Vitae](/files/CV - 202107 Xi Wu .pdf)
+[Curriculum Vitae](/files/CV - 202108 Xi Wu.pdf)
