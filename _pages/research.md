@@ -17,7 +17,7 @@ author_profile: true
 
  *<u>Keywords</u>*: Employee side project, innovation, intellectual property, Alcatel v. Brown
 
-### [Tackling Android Fragmentation: Mobile Apps’ Dilemma and the Platform’s Strategies](/research/fragmentation)
+### [Target Operating System Version for Apps under Android Fragmentation: Apps’ Dilemma and Platform’s Strategies](/research/fragmentation)
  - Coauthored with Subodha Kumar and Min-Seok Pang
  - Under review after Reject and resubmit at *Information Systems Research*
  - CIST 2019, INFORMS 2019 Annual Meeting, ICIS 2020, DSI 2020
