@@ -9,7 +9,7 @@ I have taught undergraduate courses on data and analytics. I also served as a te
 
 
 ## Temple University
-- Instructor, MIS 2502: Data and Analytics (Fall 2020) 
+- Instructor, MIS 2502: Data and Analytics (Virtual, Fall 2020) 
     - Evaluation 4.6/5
 - Teaching Assistent, MIS 2502: Data and Analytics (Spring 2020)
 - Teaching Assistent, Phd Data Camp in Fox business school (Fall 2019)
