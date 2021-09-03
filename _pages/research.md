@@ -12,7 +12,7 @@ author_profile: true
 ### [That’s Mine! Employee Side Projects, Intellectual Property Ownership, and Firm Innovation](/research/side_project)
  - Coauthored with Min-Seok Pang and Charlotte R. Ren
  - Under review after Reject and resubmit at *Information Systems Research* 
- - ICIS 2019, CIST 2019, AoM Annual Meeting 2020, SMS 2020，
+ - ICIS 2019, CIST 2019, AoM Annual Meeting 2020, SMS 2020
  
 
  *<u>Keywords</u>*: Employee side project, innovation, intellectual property, Alcatel v. Brown
