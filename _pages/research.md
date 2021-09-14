@@ -19,7 +19,7 @@ author_profile: true
 
 ### [Target Operating System Version for Apps under Android Fragmentation: Apps’ Dilemma and Platform’s Strategies](/research/fragmentation)
  - Coauthored with Subodha Kumar and Min-Seok Pang
- - Under review after Reject and resubmit at *Information Systems Research*
+ - Preparing for submission to *MIS Quarterly*
  - CIST 2019, INFORMS 2019 Annual Meeting, ICIS 2020, DSI 2020
 
  *<u>Keywords</u>*: Android fragmentation, mobile platform, software development, platform, game-theoretic model
@@ -32,12 +32,14 @@ author_profile: true
 
  *<u>Keywords</u>*: Electric vehicles, diffusion of innovations, government subsidy, automobile purchase
 
-----------------------------------------
 
-# Work in Progress
-### How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market
+### [How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market](/research/gdpr-competition)
  - Coauthored with Min-Seok Pang
  - Data analytics, Target journal: *MIS Quarterly*
  - SCECR 2021, ICIS 2021
 
  *<u>Keywords</u>*: data privacy, mobile applications, GDPR
+
+----------------------------------------
+
+# Work in Progress
