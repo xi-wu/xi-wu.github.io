@@ -25,21 +25,25 @@ author_profile: true
  *<u>Keywords</u>*: Android fragmentation, mobile platform, software development, platform, game-theoretic model
 
 
-### [No Longer Rolling Dirty: The Effect of Electric Vehicle Subsidies on Automobile Markets](/research/ev)
- - Coauthored with Jing Gong, Brad N Greenwood, and Yiping Song 
- - Under review at *Journal of Operations Management*
- - AoM Annual Meeting 2019, WCBA 2019
-
- *<u>Keywords</u>*: Electric vehicles, diffusion of innovations, government subsidy, automobile purchase
-
 
 ### [How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market](/research/gdpr-competition)
  - Coauthored with Min-Seok Pang
- - Data analytics, Target journal: *MIS Quarterly*
+ - Preparing for submission to *MIS Quarterly*
  - SCECR 2021, ICIS 2021
 
  *<u>Keywords</u>*: data privacy, mobile applications, GDPR
 
+### [No Longer Rolling Dirty: The Effect of Electric Vehicle Subsidies on Automobile Markets](/research/ev)
+ - Coauthored with Jing Gong, Brad N Greenwood, and Yiping Song 
+ - Under review
+ - AoM Annual Meeting 2019, WCBA 2019
+
+ *<u>Keywords</u>*: Electric vehicles, diffusion of innovations, government subsidy, automobile purchase
+
 ----------------------------------------
 
 # Work in Progress
+
+ - “Cloud services and Open Source: Friends or foes?” (With Jing Gong. Stage: Data Collection. Target: Management Science) 
+ - “Contribution Status and Voluntary Contribution in Open Source Software Projects” (With Jing Gong and Paul Pavlou. Stage: Data analysis. Target: MIS Quarterly) 
+
