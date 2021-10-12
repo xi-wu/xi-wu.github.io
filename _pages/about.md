@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Xi Wu, a fifth-year Ph.D. Candidate in the Department of Management Information Systems at Temple University’s Fox business school. 
+Hi, I am Xi Wu, a fifth-year Ph.D. Candidate in the Department of Management Information Systems at Temple University’s Fox School of Business. 
 
 My primary research interest is in the area of information economics. The core question that motivates my research is: *How do technologies influence the process by which firms capture and create values?*
 In particular, my work tries to understand knowledge creation, innovation, and entrepreneurship in Information Technology (IT) industries. My research uses interdisciplinary approaches such as econometrics, analytical modeling, and machine learning. 
