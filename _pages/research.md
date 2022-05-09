@@ -11,7 +11,7 @@ author_profile: true
 
 ### [That’s Mine! Employee Side Projects, Intellectual Property Ownership, and Firm Innovation](/research/side_project)
  - Coauthored with Min-Seok Pang and Charlotte R. Ren
- - Under review after Reject and resubmit at *Information Systems Research* 
+ - Major Revision at *MIS Quarterly* 
  - ICIS 2019, CIST 2019, AoM Annual Meeting 2020, SMS 2020
  
 
@@ -28,14 +28,14 @@ author_profile: true
 
 ### [How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market](/research/gdpr-competition)
  - Coauthored with Min-Seok Pang
- - Preparing for submission to *MIS Quarterly*
+ - Under Review at *MIS Quarterly*
  - SCECR 2021, ICIS 2021
 
  *<u>Keywords</u>*: data privacy, mobile applications, GDPR
 
 ### [No Longer Rolling Dirty: The Effect of Electric Vehicle Subsidies on Automobile Markets](/research/ev)
  - Coauthored with Jing Gong, Brad N Greenwood, and Yiping Song 
- - Under review
+ - Major Revision at *Journal of Public Policy & Marketing*
  - AoM Annual Meeting 2019, WCBA 2019
 
  *<u>Keywords</u>*: Electric vehicles, diffusion of innovations, government subsidy, automobile purchase
