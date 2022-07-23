@@ -9,6 +9,13 @@ author_profile: true
 
 # Working Papers
 
+### [How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market](/research/gdpr-competition)
+ - Coauthored with Min-Seok Pang
+ - Major Revision at *MIS Quarterly* 
+ - SCECR 2021, ICIS 2021
+
+ *<u>Keywords</u>*: data privacy, mobile applications, GDPR
+
 ### [That’s Mine! Employee Side Projects, Intellectual Property Ownership, and Firm Innovation](/research/side_project)
  - Coauthored with Min-Seok Pang and Charlotte R. Ren
  - Major Revision at *MIS Quarterly* 
@@ -24,14 +31,6 @@ author_profile: true
 
  *<u>Keywords</u>*: Android fragmentation, mobile platform, software development, platform, game-theoretic model
 
-
-
-### [How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market](/research/gdpr-competition)
- - Coauthored with Min-Seok Pang
- - Under Review at *MIS Quarterly*
- - SCECR 2021, ICIS 2021
-
- *<u>Keywords</u>*: data privacy, mobile applications, GDPR
 
 ### [No Longer Rolling Dirty: The Effect of Electric Vehicle Subsidies on Automobile Markets](/research/ev)
  - Coauthored with Jing Gong, Brad N Greenwood, and Yiping Song 
