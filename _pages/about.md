@@ -18,4 +18,4 @@ In particular, my work tries to understand knowledge creation, innovation, and e
 
 My work has been presented in leading conferences such as the Conference on Information Systems and Technology, the International Conference of Information Systems, the Academy of Management Annual Meeting, and the Strategic Management Society Conference.
 
-[Curriculum Vitae](/files/CV - 202207.pdf)
+[Curriculum Vitae](/files/CV - 202209.pdf)
