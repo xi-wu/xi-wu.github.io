@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : " Xi Wu's Personal Website"
 title_separator          : "-"
 name                     : &name "Xi Wu"
-description              : &description "PhD Candidate at Temple University"
+description              : &description "Postdoctoral researcher at the SDA Bocconi School of Management"
 url                      : https://xi-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xi-wu/xi-wu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : " Xi Wu  (吴茜)"
   avatar           : "Graduation.jpg"
-  bio              : "A PhD Candidate in the MIS Department at Temple University’s Fox School of Business."
-  location         : "Philadelphia, PA"
-  employer         : "Temple University"
+  bio              : "A postdoctoral researcher at the SDA Bocconi School of Management"
+ # location         : "Philadelphia, PA"
+ # employer         : "Temple University"
   pubmed           : 
   googlescholar    : 
-  email            : "xi.wu@temple.edu"
+  email            : "wu.m.xi@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

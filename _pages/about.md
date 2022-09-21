@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Xi Wu, a fifth-year Ph.D. Candidate in the Department of Management Information Systems at Temple University’s Fox School of Business. 
+Hi, I am Xi Wu, a postdoctoral researcher at the SDA Bocconi School of Management. 
 
 
 My primary research interest is in the area of information economics. The core question that motivates my research is: *How do technologies influence the process by which firms capture and create values?*
