@@ -26,7 +26,7 @@ author_profile: true
 
 ### [Target Operating System Version for Apps under Android Fragmentation: Apps’ Dilemma and Platform’s Strategies](/research/fragmentation)
  - Coauthored with Subodha Kumar and Min-Seok Pang
- - Preparing for submission to *MIS Quarterly*
+ - Preparing for submission to *Management Science*
  - CIST 2019, INFORMS 2019 Annual Meeting, ICIS 2020, DSI 2020
 
  *<u>Keywords</u>*: Android fragmentation, mobile platform, software development, platform, game-theoretic model
@@ -34,7 +34,7 @@ author_profile: true
 
 ### [No Longer Rolling Dirty: The Effect of Electric Vehicle Subsidies on Automobile Markets](/research/ev)
  - Coauthored with Jing Gong, Brad N Greenwood, and Yiping Song 
- - Major Revision at *Journal of Public Policy & Marketing*
+ - Under 2nd round review at *Journal of Public Policy & Marketing*
  - AoM Annual Meeting 2019, WCBA 2019
 
  *<u>Keywords</u>*: Electric vehicles, diffusion of innovations, government subsidy, automobile purchase

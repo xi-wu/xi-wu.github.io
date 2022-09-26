@@ -8,7 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Xi Wu, a postdoctoral researcher at the SDA Bocconi School of Management. 
+Hi, I am Xi Wu, a postdoctoral researcher at the [SDA Bocconi School of Management](https://www.sdabocconi.it/en/home).
+
+I received my Ph.D. degree in Business Administration (Concentration: Management Information Systems) in June 2022 from [Fox School of Business](https://www.fox.temple.edu/), [Temple University](https://www.temple.edu/), with a dissertation entitled “*Three Essays on Digital Transformation Challenges in Innovation and Entrepreneurship*” under the supervision of Prof. Min-Seok Pang. 
 
 
 My primary research interest is in the area of information economics. The core question that motivates my research is: *How do technologies influence the process by which firms capture and create values?*
