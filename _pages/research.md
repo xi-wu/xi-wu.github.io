@@ -34,7 +34,7 @@ author_profile: true
 
 ### [No Longer Rolling Dirty: The Effect of Electric Vehicle Subsidies on Automobile Markets](/research/ev)
  - Coauthored with Jing Gong, Brad N Greenwood, and Yiping Song 
- - Under 2nd round review at *Journal of Public Policy & Marketing*
+ - Conditionally Accepted at *Journal of Public Policy & Marketing*
  - AoM Annual Meeting 2019, WCBA 2019
 
  *<u>Keywords</u>*: Electric vehicles, diffusion of innovations, government subsidy, automobile purchase

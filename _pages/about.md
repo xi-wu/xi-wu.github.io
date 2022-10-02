@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Xi Wu, a postdoctoral researcher at the [SDA Bocconi School of Management](https://www.sdabocconi.it/en/home).
+Welcome to my site! I am a postdoctoral researcher at the [SDA Bocconi School of Management](https://www.sdabocconi.it/en/home).
 
 I received my Ph.D. degree in Business Administration (Concentration: Management Information Systems) in June 2022 from [Fox School of Business](https://www.fox.temple.edu/), [Temple University](https://www.temple.edu/).
 
@@ -20,4 +20,4 @@ In particular, my work tries to understand knowledge creation, innovation, and e
 
 My work has been presented in leading conferences such as the Conference on Information Systems and Technology, the International Conference of Information Systems, the Academy of Management Annual Meeting, and the Strategic Management Society Conference.
 
-[Curriculum Vitae](/files/CV - 202209.pdf)
+[Curriculum Vitae](/files/CV - 202210.pdf)
