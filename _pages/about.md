@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my site! I am a Assistant Professor at the [Tilburg School of Economics and Management](hhttps://www.tilburguniversity.edu/about/schools/economics-and-management).
+Welcome to my site! I am an Assistant Professor at the [Tilburg School of Economics and Management](hhttps://www.tilburguniversity.edu/about/schools/economics-and-management).
 
 I received my Ph.D. degree in Business Administration (Concentration: Management Information Systems) in June 2022 from [Fox School of Business](https://www.fox.temple.edu/), [Temple University](https://www.temple.edu/).
 
