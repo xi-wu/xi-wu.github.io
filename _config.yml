@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : " Xi Wu's Personal Website"
 title_separator          : "-"
 name                     : &name "Xi Wu"
-description              : &description "Postdoctoral researcher at the SDA Bocconi School of Management"
+description              : &description "Assistant Professor at Tilburg School of Economics and Management"
 url                      : https://xi-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xi-wu/xi-wu.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "  Xi Wu  (吴茜)"
   avatar           : "profile.jpeg"
-  bio              : "A postdoctoral researcher at the SDA Bocconi School of Management"
- # location         : "Philadelphia, PA"
- # employer         : "Temple University"
+  bio              : "Assistant Professor at Tilburg University, MIS Scholar"
+  location         : "Tilburg, Netherlands"
+  employer         : "Tilburg University"
   pubmed           : 
   googlescholar    : 
   email            : "wu.m.xi@outlook.com"
