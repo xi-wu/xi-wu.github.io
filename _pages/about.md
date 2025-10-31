@@ -18,6 +18,5 @@ My primary research interest is in the area of information economics. The core q
 In particular, my work tries to understand knowledge creation, innovation, and entrepreneurship in Information Technology (IT) industries. My current research focuses on **digital platforms**, **open-source software**, and **intellectual property in digital age**. My research uses interdisciplinary approaches such as econometrics, analytical modeling, and machine learning.
 
 
-My work has been presented in leading conferences such as the Conference on Information Systems and Technology, the International Conference of Information Systems, the Academy of Management Annual Meeting, and the Strategic Management Society Conference.
 
-[Curriculum Vitae](/files/CV - 202308.pdf)
+

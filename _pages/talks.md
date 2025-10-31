@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
- - Xi Wu, Min-Seok Pang. “How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market.” International Conference on Information Systems (ICIS), Austin, Texas (December 12-15, 2021)
+ - How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market. *International Conference on Information Systems (ICIS)*, Austin, Texas (December 12-15, 2021)
 
  - Xi Wu, Min-Seok Pang. “How Data Privacy Regulations Affect Competition: Empirical Evidence from Mobile Application Market.” INFORMS 2021 Annual Meeting, Anaheim, California (October 12-15, 2021)
 
